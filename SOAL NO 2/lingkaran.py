@@ -1,6 +1,6 @@
 import math
 
-print("=== PROGRAM LINGKARAN ===")
+print("LATIHAN LINGKARAN")
 print("1. Menghitung Keliling Lingkaran")
 print("2. Menghitung Luas Lingkaran")
 
